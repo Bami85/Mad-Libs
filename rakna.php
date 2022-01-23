@@ -21,6 +21,8 @@
   echo "Blommor är $synonym<br>";
   echo " $pluralName är blue <br>";
   echo "Jag älskar $kändis <br>";
+      
+      
   
 
   ?>
